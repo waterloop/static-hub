@@ -1,0 +1,26 @@
+tiles:
+-
+  name: "Slack"
+  url: "https://waterloop.slack.com"
+  img: "logos/slack.svg"
+  tags: ["chat"]
+-
+  name: "Google Drive"
+  url: "https://drive.google.com/drive/folders/0B-WcFQYGxMSMYVg1X25PNFVQZzQ"
+  img: "logos/gdrive.svg"
+  tags: ["documents"]
+-
+  name: "Jira"
+  url: "http://jira.waterloop.ca"
+  img: "logos/jira.svg"
+  tags: [""]
+-
+  name: "Confluence"
+  url: "http://confluence.waterloop.ca"
+  img: "logos/confluence.svg"
+  tags: ["documents"]
+-
+  name: "GitBooks"
+  url: "https://app.gitbook.com/login/waterloop"
+  img: "logos/gitbooks.svg"
+  tags: ["documents"]

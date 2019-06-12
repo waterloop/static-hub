@@ -1,0 +1,20 @@
+baseURL = "http://hub.waterloop.ca/"
+languageCode = "en-us"
+title = "Waterloop hub"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "chat"
+tag = "chat"
+icon = "envelope"
+
+[[ params.nav ]]
+name = "documents"
+tag = "documents"
+icon = "file"
