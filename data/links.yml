@@ -10,17 +10,22 @@ tiles:
   img: "logos/gdrive.svg"
   tags: ["documents"]
 -
-  name: "Jira"
-  url: "http://jira.waterloop.ca"
-  img: "logos/jira.svg"
-  tags: [""]
--
-  name: "Confluence"
-  url: "http://confluence.waterloop.ca"
-  img: "logos/confluence.svg"
-  tags: ["documents"]
+  name: "Atlassian"
+  url: "https://waterloop.atlassian.net"
+  img: "logos/atlassian.svg"
+  tags: ["documents", "tasks"]
 -
   name: "GitBooks"
   url: "https://app.gitbook.com/login/waterloop"
   img: "logos/gitbooks.svg"
   tags: ["documents"]
+-
+  name: "Github"
+  url: "https://github.com/waterloop"
+  img: "logos/github.svg"
+  tags: ["code"]
+-
+  name: "Gitlab"
+  url: "https://gitlab.com/wloop"
+  img: "logos/gitlab.svg"
+  tags: ["code"]

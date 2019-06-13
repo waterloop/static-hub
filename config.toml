@@ -12,9 +12,19 @@ OpenLinksInNewWindow = true
 [[ params.nav ]]
 name = "chat"
 tag = "chat"
-icon = "envelope"
+icon = "inbox"
 
 [[ params.nav ]]
 name = "documents"
 tag = "documents"
-icon = "file"
+icon = "book"
+
+[[ params.nav ]]
+name = "tasks"
+tag = "tasks"
+icon = "cog"
+
+[[ params.nav ]]
+name = "code"
+tag = "code"
+icon = "laptop"
